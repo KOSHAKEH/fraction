@@ -1,0 +1,10 @@
+﻿  class_fraction.cpp
+C:\Users\kosh\source\repos\class_fraction\class_fraction\fraction.h(230,7): warning C4101: temp: неиспользованная локальная переменная
+  (компиляция исходного файла "class_fraction.cpp")
+  
+  fraction.cpp
+C:\Users\kosh\source\repos\class_fraction\class_fraction\fraction.h(230,7): warning C4101: temp: неиспользованная локальная переменная
+  (компиляция исходного файла "fraction.cpp")
+  
+  Создание кода...
+  class_fraction.vcxproj -> C:\Users\kosh\source\repos\class_fraction\x64\Debug\class_fraction.exe
